@@ -4,10 +4,9 @@ Toy dataset Image Classification using Pytorch
 Model 1. Neural Network
 ● How many trainable parameters are in the model? It is printed in the terminal. → There are 346373 parameters in this model
 ● What is the best training accuracy? → train Accuracy: 75.816%
-● What is the best validation accuracy? Is it better than the ones in the previous questions?
-→ valid Accuracy: 76.72%
+● What is the best validation accuracy? Is it better than the ones in the previous questions? → valid Accuracy: 76.72%
 ● According to the training and validation accuracies, does the model overfit your training
-data?
+data? 
 → No, it is not overfitting. If it were overfitting, training accuracy should be much higher than validation accuracy.
 
 
